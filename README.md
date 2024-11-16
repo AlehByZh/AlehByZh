@@ -5,7 +5,7 @@
 <img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/ea0c6164-41aa-4ddb-9ebe-9340e7e6d302" alt = "Maven" width="100" height="50">
 <img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/8bf436fb-c216-4c22-af06-73e9fb46fc22" alt = "JUnit5" width="100" height="50">
 <img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/e6ad943e-743b-4003-968c-89821a66ece8" alt = "Selenium" width="100" height="50">
+<img src="https://github.com/user-attachments/assets/1e2eddc3-8c7a-4f39-bf43-84095705a689" alt = "Appium" width="100" height="50">
 <img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/2b96a22e-1cd3-4f0a-bace-103406eff4ad" alt = "Allure" width="100" height="50">
 <img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/12f2d483-475a-4376-92b2-b33c1a73002c" alt = "Docker" width="100" height="50">
-<img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/89ba882d-34d9-4f32-b92a-a046996e8d92" alt = "Jenkins" width="40" height="50">
-<img src="https://github.com/user-attachments/assets/1e2eddc3-8c7a-4f39-bf43-84095705a689" alt = "Appium" width="100" height="50"> </h4>
+<img src="https://github.com/AlehByZh/AlehByZh/assets/161764041/89ba882d-34d9-4f32-b92a-a046996e8d92" alt = "Jenkins" width="40" height="50"></h4>
